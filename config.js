@@ -83,7 +83,7 @@ var config = {
         },
         {
             id: '3',
-            alignment: 'centered',
+            alignment: 'full',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/dsTYtvq4/E2.png',
