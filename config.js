@@ -19,7 +19,7 @@ var config = {
     title: 'Pangaltı Ermeni Mezarlığı / Armenian Cemetery',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '1',
@@ -89,13 +89,13 @@ var config = {
             image: 'https://i.ibb.co/dsTYtvq4/E2.png',
             description: '',
             location: {
-                center: [28.98792397848983,41.04276161700204],
-                zoom: 17,
+                center: [28.988186762044197,41.04317153221021],
+                zoom: 15.8,
                 pitch: 25,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [
                 // {
